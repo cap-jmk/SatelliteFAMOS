@@ -1,3 +1,5 @@
+# Notice
+copied from Zalando research repository. 
 # Fully Adversarial Mosaics (FAMOS)
 
 Pytorch implementation of the paper "Copy the Old or Paint Anew? An Adversarial Framework
